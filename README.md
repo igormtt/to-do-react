@@ -1,9 +1,9 @@
-### To-Do list application
+## To-Do list application
 
 I cloned the repository, what should I do next?
 npm run dev (to run the application)
 
-#### How to use this application?
+### How to use this application?
 
 * <p>Go to your browser and type the url: http://localhost:5173/</p>
 
