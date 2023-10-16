@@ -5,7 +5,7 @@ npm run dev (to run the application)
 
 #### How to use this application?
 
-* <p>Go to your browser and type the url: http://localhost:5173/</p> *  
+* <p>Go to your browser and type the url: http://localhost:5173/</p>
 
 * <p>Type in the text input an task</p>
 
