@@ -1,0 +1,44 @@
+.task {
+  width: 40rem;
+  display: flex;
+  padding: .7rem;
+  border-radius: 10px;
+  border: 1px solid #111111;
+  justify-content: space-between;
+  background-color: #262626;
+  color: #FFF;
+  flex-direction: row;
+  height: 4rem;
+  margin-bottom: 1rem;
+  align-items: center;
+  
+}
+
+.task_name_container {
+  gap: 2.5rem;
+  display: flex;
+}
+
+.checked {
+  font-style: italic;
+  text-decoration: line-through;
+  color: #bdbdbd;
+}
+
+.unchecked {
+  font-style: normal;
+}
+
+.trash_icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.trash_icon:hover {
+  cursor: pointer;
+  color: #595959;
+  border-radius: 6px;
+  
+}
